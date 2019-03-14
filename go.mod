@@ -1,4 +1,4 @@
-module github.com/micro/go-api
+module github.com/PengjuDuan/go-api
 
 require (
 	github.com/golang/protobuf v1.2.0
